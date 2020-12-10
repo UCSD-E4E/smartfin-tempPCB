@@ -1,0 +1,14 @@
+
+*.htm
+
+History/
+
+__Previews/
+
+Project Outputs for Temp Sensor Board/
+
+Project Logs for Temp Sensor Board/
+
+*.pdf
+
+*.zip
